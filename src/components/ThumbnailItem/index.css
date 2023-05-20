@@ -1,0 +1,19 @@
+/* Write your code here. */
+.thumbnail-img {
+  border-radius: 8px;
+}
+.list-item {
+  list-style: none;
+  margin-left: 20px;
+}
+.inactive-img {
+  opacity: 0.5;
+}
+.active-img {
+  opacity: 1;
+}
+.button {
+  box-sizing: border-box;
+  border: 0;
+  background-color: transparent;
+}

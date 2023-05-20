@@ -1,0 +1,30 @@
+/* Write your code here. */
+.app-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 100vh;
+}
+.active-image {
+  width: 80%;
+  border-radius: 20px;
+  margin: 60px;
+  margin-top: 40px;
+  align-self: center;
+}
+.bottom-container {
+  margin: 60px;
+}
+.heading {
+  font-size: 30px;
+  font-weight: 600;
+}
+.thumbnail-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+}
+ul {
+  padding-left: 0px !important;
+}
